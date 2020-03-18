@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22daf962-c212-4fff-974b-78dacd7dc02e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.13.7/libexec" />
+  <component name="ProjectId" id="1XUPzhdbSpCOwWsQG9e7LSRLyvf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build awesomeGo/main" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="awesomeGo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main/entrypoint.go" />
+      <package value="awesomeGo/main" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build awesomeGo/main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="300" y="183" key="#Go_Modules_(vgo)" timestamp="1582101135650">
+      <screen x="0" y="23" width="1882" height="1057" />
+    </state>
+    <state x="300" y="183" key="#Go_Modules_(vgo)/0.23.1882.1057/-1680.23.1680.1027@0.23.1882.1057" timestamp="1582101135650" />
+    <state x="415" y="174" key="#go_build_awesomeGo/main" timestamp="1582104432453">
+      <screen x="0" y="23" width="1882" height="1057" />
+    </state>
+    <state x="415" y="174" key="#go_build_awesomeGo/main/0.23.1882.1057/-1680.23.1680.1027@0.23.1882.1057" timestamp="1582104432453" />
+    <state width="1358" height="267" key="GridCell.Tab.0.bottom" timestamp="1583067927394">
+      <screen x="0" y="23" width="1639" height="1027" />
+    </state>
+    <state width="1358" height="267" key="GridCell.Tab.0.bottom/0.23.1639.1027@0.23.1639.1027" timestamp="1583067927394" />
+    <state width="1358" height="267" key="GridCell.Tab.0.bottom/0.23.1640.1027@0.23.1640.1027" timestamp="1582918302088" />
+    <state width="1358" height="267" key="GridCell.Tab.0.bottom/0.23.1641.1027@0.23.1641.1027" timestamp="1581326687661" />
+    <state width="1358" height="267" key="GridCell.Tab.0.bottom/0.23.1643.1027@0.23.1643.1027" timestamp="1582055552698" />
+    <state width="1358" height="267" key="GridCell.Tab.0.bottom/0.23.1882.1057/-1680.23.1680.1027@-1680.23.1680.1027" timestamp="1582105597675" />
+    <state width="1358" height="267" key="GridCell.Tab.0.bottom/0.23.1882.1057/-1680.23.1680.1027@0.23.1882.1057" timestamp="1582100766424" />
+    <state width="1358" height="267" key="GridCell.Tab.0.center" timestamp="1583067927393">
+      <screen x="0" y="23" width="1639" height="1027" />
+    </state>
+    <state width="1358" height="267" key="GridCell.Tab.0.center/0.23.1639.1027@0.23.1639.1027" timestamp="1583067927393" />
+    <state width="1358" height="267" key="GridCell.Tab.0.center/0.23.1640.1027@0.23.1640.1027" timestamp="1582918302087" />
+    <state width="1358" height="267" key="GridCell.Tab.0.center/0.23.1641.1027@0.23.1641.1027" timestamp="1581326687660" />
+    <state width="1358" height="267" key="GridCell.Tab.0.center/0.23.1643.1027@0.23.1643.1027" timestamp="1582055552697" />
+    <state width="1358" height="267" key="GridCell.Tab.0.center/0.23.1882.1057/-1680.23.1680.1027@-1680.23.1680.1027" timestamp="1582105597674" />
+    <state width="1358" height="267" key="GridCell.Tab.0.center/0.23.1882.1057/-1680.23.1680.1027@0.23.1882.1057" timestamp="1582100766423" />
+    <state width="1358" height="267" key="GridCell.Tab.0.left" timestamp="1583067927393">
+      <screen x="0" y="23" width="1639" height="1027" />
+    </state>
+    <state width="1358" height="267" key="GridCell.Tab.0.left/0.23.1639.1027@0.23.1639.1027" timestamp="1583067927393" />
+    <state width="1358" height="267" key="GridCell.Tab.0.left/0.23.1640.1027@0.23.1640.1027" timestamp="1582918302086" />
+    <state width="1358" height="267" key="GridCell.Tab.0.left/0.23.1641.1027@0.23.1641.1027" timestamp="1581326687660" />
+    <state width="1358" height="267" key="GridCell.Tab.0.left/0.23.1643.1027@0.23.1643.1027" timestamp="1582055552697" />
+    <state width="1358" height="267" key="GridCell.Tab.0.left/0.23.1882.1057/-1680.23.1680.1027@-1680.23.1680.1027" timestamp="1582105597674" />
+    <state width="1358" height="267" key="GridCell.Tab.0.left/0.23.1882.1057/-1680.23.1680.1027@0.23.1882.1057" timestamp="1582100766423" />
+    <state width="1358" height="267" key="GridCell.Tab.0.right" timestamp="1583067927394">
+      <screen x="0" y="23" width="1639" height="1027" />
+    </state>
+    <state width="1358" height="267" key="GridCell.Tab.0.right/0.23.1639.1027@0.23.1639.1027" timestamp="1583067927394" />
+    <state width="1358" height="267" key="GridCell.Tab.0.right/0.23.1640.1027@0.23.1640.1027" timestamp="1582918302087" />
+    <state width="1358" height="267" key="GridCell.Tab.0.right/0.23.1641.1027@0.23.1641.1027" timestamp="1581326687661" />
+    <state width="1358" height="267" key="GridCell.Tab.0.right/0.23.1643.1027@0.23.1643.1027" timestamp="1582055552697" />
+    <state width="1358" height="267" key="GridCell.Tab.0.right/0.23.1882.1057/-1680.23.1680.1027@-1680.23.1680.1027" timestamp="1582105597675" />
+    <state width="1358" height="267" key="GridCell.Tab.0.right/0.23.1882.1057/-1680.23.1680.1027@0.23.1882.1057" timestamp="1582100766424" />
+    <state x="-1413" y="248" key="SettingsEditor" timestamp="1582105474304">
+      <screen x="-1680" y="23" width="1680" height="1027" />
+    </state>
+    <state x="-1413" y="248" key="SettingsEditor/0.23.1882.1057/-1680.23.1680.1027@-1680.23.1680.1027" timestamp="1582105474304" />
+    <state x="-1354" y="163" width="670" height="657" key="search.everywhere.popup" timestamp="1582113604987">
+      <screen x="-1680" y="23" width="1680" height="1027" />
+    </state>
+    <state x="-1354" y="163" width="670" height="657" key="search.everywhere.popup/0.23.1882.1057/-1680.23.1680.1027@-1680.23.1680.1027" timestamp="1582113604987" />
+    <state x="365" y="167" width="670" height="676" key="search.everywhere.popup/0.23.1882.1057/-1680.23.1680.1027@0.23.1882.1057" timestamp="1582104364295" />
+  </component>
+</project>
